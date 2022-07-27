@@ -93,8 +93,13 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <EmbeddedResource Include="SalesForm.resx">
       <DependentUpon>SalesForm.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+>>>>>>> Stashed changes
 =======
     <EmbeddedResource Include="Register.resx">
       <DependentUpon>Register.cs</DependentUpon>
