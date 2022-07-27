@@ -16,5 +16,11 @@ namespace PROJECT
         {
             InitializeComponent();
         }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            Customer customer = new Customer();
+            this.richTextBox1 = Customername;
+        }
     }
 }

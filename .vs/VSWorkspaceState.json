@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
+<<<<<<< Updated upstream
     ""
   ],
   "SelectedNode": "\\PROJECT.sln",
+=======
+    "",
+    "\\PROJECT - Copy",
+    "\\PROJECT - Copy\\PROJECT"
+  ],
+  "SelectedNode": "\\PROJECT - Copy\\PROJECT\\Register.cs",
+>>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }
