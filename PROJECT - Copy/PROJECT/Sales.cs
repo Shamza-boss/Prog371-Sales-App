@@ -29,10 +29,12 @@ namespace PROJECT
         public int Quantity1 { get => quantity; set => quantity = value; }
         public int ItemPrice1 { get => itemPrice; set => itemPrice = value; }
 
-        public void PlaceOrder() { }
+        public void UpdateSale() { }
 
         public void RecordSale() { }
 
         public void ShowSales() { }
+
+        public void DeleteSales() { }
     }
 }
