@@ -1,0 +1,14 @@
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\bin\Debug\PRJ271-Milestone2.exe.config
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\bin\Debug\PRJ271-Milestone2.exe
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\bin\Debug\PRJ271-Milestone2.pdb
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271-Milestone2.csproj.AssemblyReference.cache
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271-Milestone2.csproj.SuggestedBindingRedirects.cache
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271_Milestone2.Login.resources
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271_Milestone2.OrderF.resources
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271_Milestone2.Properties.Resources.resources
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271_Milestone2.Register.resources
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271_Milestone2.SalesF.resources
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271-Milestone2.csproj.GenerateResource.cache
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271-Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271-Milestone2.exe
+C:\Users\clift\Desktop\PRJ271\PRJ271-Milestone2\obj\Debug\PRJ271-Milestone2.pdb
