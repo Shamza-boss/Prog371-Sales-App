@@ -1,5 +1,5 @@
 # Prog371-Sales-App
-Proogramming 371 repository for the project 2022
+Proogramming 271 repository for the project 2022
 ###############################################################################
 Please dont push when not sure and having errors on your local application of the app.
 
